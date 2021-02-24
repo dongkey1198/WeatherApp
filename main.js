@@ -1,3 +1,4 @@
+// Open Weather Map API by: https://openweathermap.org/
 const api = {
     key: "3ef65882f94eb3c640df1c2f18fc9fc3",
     base: "https://api.openweathermap.org/data/2.5/"
