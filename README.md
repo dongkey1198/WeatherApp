@@ -6,7 +6,7 @@ Website URL: https://dongkey1198.github.io/WeatherApp/
 Youtube Link: https://www.youtube.com/watch?v=mIkw5yp3thw&list=PLQK6CVAk91WyWH9ORWq_pDTtTsAt5JT_V&index=5
 
 ---
-## 프로젝트 계획이유:
+## 프로젝트 계획 이유:
 순수 HTML, CSS, Vanila JavaScript만 사용하여 만든 두 번째 토이 프로젝트이다. 이번 프로젝트에서는 간단하지만 Public API의 사용법과 JSON 데이터 파싱에 대해 공부하고싶어 이 프로젝트를 하게 되었다. 
 
 ---
