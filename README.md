@@ -3,7 +3,7 @@
 <img src= "https://github.com/dongkey1198/WeatherApp/blob/main/weather.PNG" width = 400 height = 300>
 Website URL: https://dongkey1198.github.io/WeatherApp/
 
-Youtube Link: 
+Youtube Link: https://www.youtube.com/watch?v=mIkw5yp3thw&list=PLQK6CVAk91WyWH9ORWq_pDTtTsAt5JT_V&index=5
 
 ---
 ## 프로젝트 계획이유:
@@ -14,7 +14,7 @@ Youtube Link:
 - HTML
 - CSS
 - JavaScript
-
+- API: OpenWeatherMap
 ---
 ## 프로젝트 기간:
 2021/02/24 ~ 2021/02/24
@@ -22,7 +22,7 @@ Youtube Link:
 ---
 ## 기능:
 1. 도시검색
-2. 도시 이름 및 나라이름 출력
+2. 도시의 이름 및 나라이름 출력
 3. 도시의 현재 날짜 출력
 4. 도시의 현재 기온 출력
 5. 도시의 날씨 출력 
@@ -36,3 +36,5 @@ Youtube Link:
 ## 프로젝트를 진행하면서 어려웠던 점:
 프로젝트를 진행하면서 크게 힘든 부분은 없었다. 하지만 Public API를 사용하여 데이터를 불러오는 작업을 처음해보았기때문에 사용방법에 대해 검색하는데 시간이 생각보다 많이 소요되었다.
 
+## 개선할점:
+외국 사이트에서 제공되는 API를 사용하여 모든 정보들이 영어로 되어있다. JSON으로 데이터를 받을 때 한국어 정보들로 받는 방법이 있는 것 같아서 찾아보니 존재하기는 하지만 모든 데이터들이 한국어로 지원되지는 않았다. 그래서 모든 도시를 검색할 때 영어로만 검색이 가능하다. 이를 보완하기 위해 검색 가능한 도시들의 리스트나 검색어에 맞추어 도시들의 리스트를 띄워주는 기능을 추가했으면 좀 더 좋은 프로젝트가 되었을 것 같지만 프로젝트의 목적이 Public API과 JSON 사용방법에 대해 공부하는 것이었기 때문에 하지 않은 것이 아쉬운 프로젝트이다.
